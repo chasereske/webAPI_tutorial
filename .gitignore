@@ -1,6 +1,4 @@
-node_modules/
-
-./config/default.json
+default.json
 
 # Logs
 logs
